@@ -1,6 +1,6 @@
 # Configurations
 title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+longtitle:        sanghyuk
 author:           HE Tao
 email:            sighingnow@gmail.com
 description: >
@@ -9,7 +9,6 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-# url:              'https://sighingnow.github.io'
 url:              'https://ideal-hyuk.github.io/'
 # baseurl:          '/jekyll-gitbook'
 rss:              RSS
