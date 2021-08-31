@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://ideal-hyuk.github.io/'
-# baseurl:          '/jekyll-gitbook'
+baseurl:          'https://ideal-hyuk.github.io/'
 rss:              RSS
 
 toc:
